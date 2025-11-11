@@ -2,6 +2,21 @@
 
 Welcome to my GitHub profile! Here you will find various projects and repositories that showcase my skills and interests in Artificial Intelligence and data science. Below are some of the tools and frameworks I frequently use in my work.
 
+## 📈 GitHub Stats
+
+<a href="https://github.com/Hassanmustafa786/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanmustafa786" />
+</a>
+<a href="https://github.com/Hassanmustafa786/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanmustafa786&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/Hassanmustafa786/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hassanmustafa786&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Hassanmustafa786/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hassanmustafa786&repo=convoychat" />
+</a>
+
 ## 🛠️ Tools and Frameworks
 
 ### Programming Languages
@@ -43,14 +58,6 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/Hassanmustafa786/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanmustafa786" />
-</a>
-<a href="https://github.com/Hassanmustafa786/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanmustafa786&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ## 📫 Contact Me
 
