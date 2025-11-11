@@ -4,9 +4,6 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 ## 🛠️ Tools and Frameworks
 
-### ReadMe Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&repo=React-JS)](https://github.com/Hassanmustafa786/github-readme-stats)
-
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,6 +46,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 ## 📈 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent)](https://github.com/Hassanmustafa786/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmustafa786&stats_format=bytes)
 
 ## 📫 Contact Me
 
