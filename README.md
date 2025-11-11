@@ -30,6 +30,11 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 - ![Llama Index](https://img.shields.io/badge/-Llama%20Index-FFA500?style=flat&logo=llama-index&logoColor=white)
 - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![Ollama](https://img.shields.io/badge/-Ollama-0078D4?style=flat&logo=python&logoColor=white)
+- ![Grock](https://img.shields.io/badge/-Grock-FF4500?style=flat&logo=python&logoColor=white)
+- ![Agno](https://img.shields.io/badge/-Agno-008080?style=flat&logo=python&logoColor=white)
+- ![Anthropic](https://img.shields.io/badge/-Anthropic-5A5A5A?style=flat&logo=python&logoColor=white)
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ### Tools & Other Technologies
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -41,8 +46,6 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&show_icons=true&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&show_icons=true&hide=cpp&theme=radical)
-![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
 
 ## 📫 Contact Me
 
