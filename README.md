@@ -42,6 +42,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&show_icons=true&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&show_icons=true&hide=cpp&theme=radical)
+![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
 
 ## 📫 Contact Me
 
