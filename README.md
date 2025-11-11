@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 ## 🛠️ Tools and Frameworks
 
 ### ReadMe Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hassanmustafa786&repo=github-readme-stats)](https://github.com/Hassanmustafa786/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&repo=React-JS)](https://github.com/Hassanmustafa786/github-readme-stats)
 
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
