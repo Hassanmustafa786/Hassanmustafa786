@@ -45,7 +45,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786)
 
 ## 📫 Contact Me
 
