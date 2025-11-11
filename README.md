@@ -45,8 +45,9 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent)](https://github.com/Hassanmustafa786/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanmustafa786&theme=transparent&stats_format=bytes)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent)](https://github.com/Hassanmustafa786/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hassanmustafa786)](https://github.com/Hassanmustafa786/github-readme-stats)
 
 ## 📫 Contact Me
 
