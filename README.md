@@ -5,10 +5,10 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Hassanmustafa786/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanmustafa786" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=dark" />
 </a>
 <a href="https://github.com/Hassanmustafa786/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanmustafa786&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanmustafa786&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 🛠️ Tools and Frameworks
