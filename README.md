@@ -4,6 +4,9 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 ## 🛠️ Tools and Frameworks
 
+### ReadMe Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hassanmustafa786&repo=github-readme-stats)](https://github.com/Hassanmustafa786/github-readme-stats)
+
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -45,7 +48,9 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent)](https://github.com/Hassanmustafa786/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 📫 Contact Me
 
