@@ -49,8 +49,9 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 <a href="mailto:hassanqureshi700@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" />
 </a>
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
