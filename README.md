@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile! Here you will find various projects and repositories that showcase my skills and interests in Artificial Intelligence and data science. Below are some of the tools and frameworks I frequently use in my work.
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/Hassanmustafa786/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hassanmustafa786&theme=transparent&hide_rank=true" />
-</a>
-<a href="https://github.com/Hassanmustafa786/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanmustafa786&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## 🛠️ Tools and Frameworks
 
 ### Programming Languages
