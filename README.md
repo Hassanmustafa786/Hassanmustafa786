@@ -49,7 +49,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 <a href="mailto:hassanqureshi700@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/452213/gmail-color.svg" width="40" alt="Gmail Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
 </a>
 
 
