@@ -45,8 +45,8 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 
 ## 📫 Contact Me
-<a href="mailto:hassanqureshi700@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+<a href="https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 <a href="mailto:hassanqureshi700@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
