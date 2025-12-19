@@ -48,6 +48,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 - Email: [hassanqureshi700@gmail.com](mailto:hassanqureshi700@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/)
+- 🔗 **LinkedIn:** [Hassan Mustafa](https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
