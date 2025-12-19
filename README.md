@@ -45,29 +45,12 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 
 
 ## 📫 Contact Me
-
-- Email: [hassanqureshi700@gmail.com](mailto:hassanqureshi700@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/)
-
+<a href="mailto:hassanqureshi700@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+</a>
 <a href="https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
-
-### 🌐 Socials
-
-<a href="https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
-</a>
-<a href="https://github.com/Hassanmustafa786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat" />
-</a>
-
-## 👋 Hi, I'm Hassan Mustafa
-
-<a href="https://www.linkedin.com/in/hafiz-hassan-mustafa-692b391b4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-</a>
-
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
